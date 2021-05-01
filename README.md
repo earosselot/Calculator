@@ -2,4 +2,4 @@
 
 [Live on Git Hub Pages](https://earosselot.github.io/Calculator/)
 
-Calculatior project from theodinproject.com
+[Calculator project](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/calculator) from [theodinproject.com](https://www.theodinproject.com/)
